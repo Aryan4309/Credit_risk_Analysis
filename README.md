@@ -1,5 +1,5 @@
 # Credit_risk_Analysis
-In this credit risk analysis data science project, I undertook the task of developing a robust predictive model to assess the creditworthiness of borrowers. By leveraging advanced statistical techniques and machine learning algorithms, I analyzed historical credit data and relevant features to accurately predict the risk associated with lending decisions.
+In this credit risk analysis project, I undertook the task of developing a robust predictive model to assess the creditworthiness of borrowers. By leveraging advanced statistical techniques and machine learning algorithms, I analyzed historical credit data and relevant features to accurately predict the risk associated with lending decisions.
 
 The project involved comprehensive data preprocessing, including cleaning, handling missing values, and feature engineering to extract meaningful information from the dataset. I then trained and fine-tuned a predictive model using various algorithms, such as logistic regression, decision trees, and ensemble methods, to achieve optimal performance.
 
